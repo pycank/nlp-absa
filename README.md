@@ -1,4 +1,4 @@
-# Aspect-Based Sentiment Analysis in Vietnamese Using VLSP 2018 - Group 6
+# Aspect-Based Sentiment Analysis in Vietnamese - Group 12
 
 ## Overview
 This project focuses on **Aspect-Based Sentiment Analysis (ABSA)** for Vietnamese hotel and restaurant reviews, leveraging the **VLSP 2018 dataset**. The goal is to predict sentiments for specific aspect categories (e.g., "cleanliness", "service quality") and provide actionable insights for businesses in the Vietnamese market.
@@ -9,7 +9,7 @@ We explore and evaluate multiple approaches, including:
 - **PhoBART-Generation**
 - **Hierarchical Graph Convolutional Network (Hier-GCN)**
 
-This project is part of the **Web Mining course at Hanoi University of Science and Technology**.
+This project is part of the **Natural Language Processing course at Hanoi University of Science and Technology**.
 
 ## Key Features
 - **Aspect Detection**: Identifies service aspects in reviews (e.g., `ROOMS#COMFORT`).
